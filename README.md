@@ -1,4 +1,4 @@
-# sqlite_flutter_crud
+# Medicine Prescription Mobile Application
 
 A new Flutter project.
 
